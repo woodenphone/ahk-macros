@@ -1,0 +1,17 @@
+## .gitignore
+
+## Private
+git_ignored/
+private/
+secret/
+.*/
+
+
+
+## Clutter
+*.~*
+*.bak
+*.tmp
+nppBackup/
+.vscode/
+*.code-workspace

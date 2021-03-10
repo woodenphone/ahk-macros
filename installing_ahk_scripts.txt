@@ -1,0 +1,15 @@
+installing_ahk_scripts.txt
+
+1. Install autohotkey.
+2. Place copy of script into:
+For current user:
+shell:startup
+C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
+For all users:
+shell:common startup
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+
+
+
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
